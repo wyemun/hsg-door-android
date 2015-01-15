@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hackerspace Door</string>
+    <string name="widget_label">Open Sesame!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MainActivity -->
+    <string name="pin_description">Enter your door PIN below</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Toast messages -->
+    <string name="toast_pin_missing">You have not set the PIN</string>
+    <string name="toast_pin_saved">Saved! Open the door using the Widget :)</string>
+    <string name="toast_pin_error">Something is not right!</string>
+</resources>

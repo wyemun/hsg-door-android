@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <!--<item name="actionBarStyle">@style/MyActionBarStyle</item>-->
+
+
+        <item name="colorPrimary">@color/main_red</item>
+        <item name="colorPrimaryDark">@color/main_red_darker</item>
+
+
+    </style>
+
+    <style name="ButtonA">
+
+        <item name="android:background">@color/main_red_darker</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+
+</resources>
